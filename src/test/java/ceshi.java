@@ -20,5 +20,6 @@ public class ceshi {
         Sevivces bean = ac.getBean(Sevivces.class);
         Maven findybid = bean.findybid(1);
         System.out.println(findybid);
+        System.out.println("wan");
     }
 }

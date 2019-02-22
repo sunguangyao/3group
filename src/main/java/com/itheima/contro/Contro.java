@@ -19,5 +19,7 @@ public class Contro {
         model.addAttribute("item",findybid);
         System.out.println("hahah");
         return "itemDetail";
+        System.out.println("wangxin");
+        System.out.println("hahah");
     }
 }
