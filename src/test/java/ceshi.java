@@ -21,5 +21,6 @@ public class ceshi {
         Maven findybid = bean.findybid(1);
         System.out.println(findybid);
         System.out.println("wan");
+        System.out.println("成功了吗");
     }
 }
