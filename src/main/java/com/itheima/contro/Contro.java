@@ -18,8 +18,6 @@ public class Contro {
         Maven findybid = sevivces.findybid(1);
         model.addAttribute("item",findybid);
         System.out.println("hahah");
-        System.out.println("sasdasdaswdasd");
         return "itemDetail";
-
     }
 }
